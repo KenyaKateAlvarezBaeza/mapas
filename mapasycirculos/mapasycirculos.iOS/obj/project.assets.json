@@ -2061,42 +2061,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kenya\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/orthocana/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos.iOS\\mapasycirculos.iOS.csproj",
+      "projectUniqueName": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/mapasycirculos.iOS.csproj",
       "projectName": "mapasycirculos.iOS",
-      "projectPath": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos.iOS\\mapasycirculos.iOS.csproj",
-      "packagesPath": "C:\\Users\\kenya\\.nuget\\packages\\",
-      "outputPath": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos.iOS\\obj\\",
+      "projectPath": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/mapasycirculos.iOS.csproj",
+      "packagesPath": "/Users/orthocana/.nuget/packages/",
+      "outputPath": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kenya\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/orthocana/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos\\mapasycirculos.csproj": {
-              "projectPath": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos\\mapasycirculos.csproj"
+            "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos/mapasycirculos.csproj": {
+              "projectPath": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos/mapasycirculos.csproj"
             }
           }
         }
@@ -2145,7 +2135,7 @@
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package downgrade: Prism.DryIoc.Forms from 8.1.97 to 8.0.0.1909. Reference the package directly from the project to select a different version. \r\n mapasycirculos.iOS -> mapasycirculos -> Prism.DryIoc.Forms (>= 8.1.97) \r\n mapasycirculos.iOS -> Prism.DryIoc.Forms (>= 8.0.0.1909)",
+      "message": "Detected package downgrade: Prism.DryIoc.Forms from 8.1.97 to 8.0.0.1909. Reference the package directly from the project to select a different version. \n mapasycirculos.iOS -> mapasycirculos -> Prism.DryIoc.Forms (>= 8.1.97) \n mapasycirculos.iOS -> Prism.DryIoc.Forms (>= 8.0.0.1909)",
       "libraryId": "Prism.DryIoc.Forms",
       "targetGraphs": [
         "Xamarin.iOS,Version=v1.0",

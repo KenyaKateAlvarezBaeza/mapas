@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mapasycirculos", "mapasycirculos.csproj", "{E1BDF265-B8EB-4DA7-A2CA-0021F70407ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BDF265-B8EB-4DA7-A2CA-0021F70407ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BDF265-B8EB-4DA7-A2CA-0021F70407ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BDF265-B8EB-4DA7-A2CA-0021F70407ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BDF265-B8EB-4DA7-A2CA-0021F70407ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {396C955E-BF45-44F7-AE2D-AD35DC16CFAB}
+	EndGlobalSection
+EndGlobal

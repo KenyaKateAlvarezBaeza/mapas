@@ -1,0 +1,85 @@
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/mapasycirculos.iOS.exe
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/mapasycirculos.iOS.pdb
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/DryIoc.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/DynamicData.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Prism.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Prism.pdb
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Prism.DryIoc.Forms.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Prism.DryIoc.Forms.pdb
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Prism.Forms.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Prism.Forms.pdb
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/ReactiveUI.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/ReactiveUI.XamForms.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Splat.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/System.Reactive.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Essential.Interfaces.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/mapasycirculos.dll
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/bin/iPhoneSimulator/Debug/mapasycirculos.pdb
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/actool/_PartialAppManifest.items
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/actool/_BundleResourceWithLogicalName.items
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/actool/_ProcessedImageAssetsPath.items
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/coremlc/_PartialAppManifest.items
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/_ProcessedBundleResourcesPath.items
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/_ProcessedContentPath.items
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/optimized/Default-568h@2x.png
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/optimized/Default-Portrait.png
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/optimized/Default-Portrait@2x.png
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/optimized/Default.png
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/optimized/Default@2x.png
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/optimized/ellipse.png
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/optimized/point.png
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 12 mini-15.2/optimized/
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/mapasycirculos.iOS.csproj.AssemblyReference.cache
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/mapasycirculos.iOS.csproj.CoreCompileInputs.cache
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/mapasycirculos.iOS.csproj.CopyComplete
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/mapasycirculos.iOS.exe
+/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/iPhoneSimulator/Debug/mapasycirculos.iOS.pdb

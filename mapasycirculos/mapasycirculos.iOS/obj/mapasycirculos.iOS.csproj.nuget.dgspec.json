@@ -1,41 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos.iOS\\mapasycirculos.iOS.csproj": {}
+    "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/mapasycirculos.iOS.csproj": {}
   },
   "projects": {
-    "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos.iOS\\mapasycirculos.iOS.csproj": {
+    "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/mapasycirculos.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos.iOS\\mapasycirculos.iOS.csproj",
+        "projectUniqueName": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/mapasycirculos.iOS.csproj",
         "projectName": "mapasycirculos.iOS",
-        "projectPath": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos.iOS\\mapasycirculos.iOS.csproj",
-        "packagesPath": "C:\\Users\\kenya\\.nuget\\packages\\",
-        "outputPath": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos.iOS\\obj\\",
+        "projectPath": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/mapasycirculos.iOS.csproj",
+        "packagesPath": "/Users/orthocana/.nuget/packages/",
+        "outputPath": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kenya\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/orthocana/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos\\mapasycirculos.csproj": {
-                "projectPath": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos\\mapasycirculos.csproj"
+              "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos/mapasycirculos.csproj": {
+                "projectPath": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos/mapasycirculos.csproj"
               }
             }
           }
@@ -79,30 +71,22 @@
         }
       }
     },
-    "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos\\mapasycirculos.csproj": {
+    "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos/mapasycirculos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos\\mapasycirculos.csproj",
+        "projectUniqueName": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos/mapasycirculos.csproj",
         "projectName": "mapasycirculos",
-        "projectPath": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos\\mapasycirculos.csproj",
-        "packagesPath": "C:\\Users\\kenya\\.nuget\\packages\\",
-        "outputPath": "E:\\Xipe\\mapas\\mapasycirculos\\mapasycirculos\\obj\\",
+        "projectPath": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos/mapasycirculos.csproj",
+        "packagesPath": "/Users/orthocana/.nuget/packages/",
+        "outputPath": "/Users/orthocana/Documents/XIPE/mapas/mapasycirculos/mapasycirculos/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\kenya\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/orthocana/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -158,7 +142,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

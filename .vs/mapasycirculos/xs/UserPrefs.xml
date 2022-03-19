@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{F1330888-D691-4666-A461-D54B992CE07F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mapasycirculos/mapasycirculos.iOS/Info.plist">
+    <Files>
+      <File FileName="mapasycirculos/mapasycirculos.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mapasycirculos" expanded="True">
+            <Node name="mapasycirculos.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
