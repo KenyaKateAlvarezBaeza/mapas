@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps" 
+             xmlns:local="clr-namespace:mapasycirculos"
+             x:Class="mapasycirculos.Views.MainPage"
+             Title="{Binding Title}">
+
+    <StackLayout>
+        <Frame CornerRadius="20" Margin="25,25,25,20">
+            <local:MapCustomPin x:Name="map"
+                        HasZoomEnabled="False" MapType="Street"
+                              HeightRequest="188"
+                              Margin="-20"/>
+        </Frame>
+    </StackLayout>
+</ContentPage>
